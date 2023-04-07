@@ -1,0 +1,32 @@
+.number-1{
+    color: #000000;
+    background-color: #ffadbb;
+    font-family: "Verdana", sans-serif;
+}
+
+#number-2{
+    color: #0000ff;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 36px;
+}
+
+.number-3{
+    color: #000000;
+    background-color: #ffadbb;
+    font-family: "Verdana", sans-serif;
+    font-size: 24px;
+}
+
+#number-4{
+    color: #000000;
+    background-color: rgb(107, 239, 107);
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.number-5{
+    color: #000000;
+    background-color: #ffadbb;
+    font-family: "Verdana", sans-serif;
+}
